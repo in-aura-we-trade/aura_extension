@@ -8,7 +8,7 @@ install packages published in this repository.
 
 ## Chrome
 
-1. Download `aura-trade-v0.0.4-chrome.zip` from the latest release.
+1. Download `aura-trade-v0.0.5-chrome.zip` from the latest release.
 2. Extract the archive to a permanent directory.
 3. Open `chrome://extensions`.
 4. Enable **Developer mode**.
@@ -20,7 +20,7 @@ directly from that directory.
 
 ## Firefox
 
-1. Download `aura-trade-v0.0.4-firefox.zip` from the latest release.
+1. Download `aura-trade-v0.0.5-firefox.zip` from the latest release.
 2. Extract the archive.
 3. Open `about:debugging#/runtime/this-firefox`.
 4. Select **Load Temporary Add-on**.
